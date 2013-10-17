@@ -1,0 +1,8 @@
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\bin\Release\ShortCutRemover.exe.config
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\bin\Release\ShortCutRemover.exe
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\bin\Release\ShortCutRemover.pdb
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Release\ShortCutRemover.Form1.resources
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Release\ShortCutRemover.Properties.Resources.resources
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Release\ShortCutRemover.csproj.GenerateResource.Cache
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Release\ShortCutRemover.exe
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Release\ShortCutRemover.pdb

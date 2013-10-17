@@ -1,0 +1,9 @@
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\bin\Debug\ShortCutRemover.exe.config
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\bin\Debug\ShortCutRemover.exe
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\bin\Debug\ShortCutRemover.pdb
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Debug\ShortCutRemover.csprojResolveAssemblyReference.cache
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Debug\ShortCutRemover.Properties.Resources.resources
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Debug\ShortCutRemover.csproj.GenerateResource.Cache
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Debug\ShortCutRemover.exe
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Debug\ShortCutRemover.pdb
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Debug\ShortCutRemover.Form1.resources
