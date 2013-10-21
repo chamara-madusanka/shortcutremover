@@ -21,6 +21,7 @@ namespace ShortCutRemover
                          where drive.DriveType == DriveType.Removable
                          select drive;
             cmbBx1.DataSource = drives.ToList(); //add removable drives to combobox
+            this.MaximizeBox = false;//this is to disable the maximize button
         }
 
         private void cmbBx1_SelectedIndexChanged(object sender, EventArgs e)
@@ -65,7 +66,9 @@ namespace ShortCutRemover
 
             process.WaitForExit();
 
+            if(drive!=""){
             MessageBox.Show("Your pen drive is recovered!");
+            }
         }
 
         private void btnCancel_Click(object sender, EventArgs e)

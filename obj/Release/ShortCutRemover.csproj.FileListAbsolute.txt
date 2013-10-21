@@ -6,3 +6,4 @@ C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Release\ShortCut
 C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Release\ShortCutRemover.csproj.GenerateResource.Cache
 C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Release\ShortCutRemover.exe
 C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Release\ShortCutRemover.pdb
+C:\Users\chamara\Desktop\VS\ShortCutRemover\ShortCutRemover\obj\Release\ShortCutRemover.csprojResolveAssemblyReference.cache
